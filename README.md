@@ -18,12 +18,17 @@ Kullanılma amacı düşündüğümüz işlemi kısa sürede kod kalabalığı o
 # Kullanımı:
 Regex, java.util.regex API içinde tanımlanmıştır. Bu API'nin en önemli iki temel sınıfı Pattern ve Matcher sınıflarıdır. Pattern ile karakter deseni tanımlayıp, Matcher ile karakter desenine çeşitli eşleme işlemleri yapabiliriz.
 
-
+# Kod Yapısı:
 
 | Regex Kodu     | =      | Yapısı|
 |------------|-------------|-------------|
-|<img src="https://user-images.githubusercontent.com/45692227/118510288-7d693d80-b739-11eb-8cbb-17834ae425f0.png"> |=|<img src="https://user-images.githubusercontent.com/45692227/118510965-22841600-b73a-11eb-9b04-4bff65e88dbf.png" width="250">| 
+|<img src="https://user-images.githubusercontent.com/45692227/118510288-7d693d80-b739-11eb-8cbb-17834ae425f0.png"> |=|<img src="https://user-images.githubusercontent.com/45692227/118510965-22841600-b73a-11eb-9b04-4bff65e88dbf.png" >| 
+|<img src="https://user-images.githubusercontent.com/45692227/118511599-bce45980-b73a-11eb-9cf9-02a22c23cd10.png"> |=|<img src="https://user-images.githubusercontent.com/45692227/118511597-bc4bc300-b73a-11eb-9be8-88ebba040c79.png" >| 
+|<img src="https://user-images.githubusercontent.com/45692227/118511913-059c1280-b73b-11eb-82d6-e78de53c9320.png"> |=|<img src="https://user-images.githubusercontent.com/45692227/118511918-0634a900-b73b-11eb-9866-5dcbb196baa3.png" >| 
 
+
+# Java Kodu:
+<img src="https://user-images.githubusercontent.com/45692227/118512434-76dbc580-b73b-11eb-9172-b19268ff8da9.png" >
 
 
 
