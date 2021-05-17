@@ -18,6 +18,8 @@ Kullanılma amacı düşündüğümüz işlemi kısa sürede kod kalabalığı o
 # Kullanımı:
 Regex, java.util.regex API içinde tanımlanmıştır. Bu API'nin en önemli iki temel sınıfı Pattern ve Matcher sınıflarıdır. Pattern ile karakter deseni tanımlayıp, Matcher ile karakter desenine çeşitli eşleme işlemleri yapabiliriz.
 
+ <img src="https://user-images.githubusercontent.com/45692227/118510288-7d693d80-b739-11eb-8cbb-17834ae425f0.png"> 
+
 
 
 
