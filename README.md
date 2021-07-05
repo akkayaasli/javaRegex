@@ -31,6 +31,7 @@ Regex, java.util.regex API içinde tanımlanmıştır. Bu API'nin en önemli iki
 <img src="https://user-images.githubusercontent.com/45692227/118512434-76dbc580-b73b-11eb-9172-b19268ff8da9.png" >
 
 # Test:
+Telefon no.
 <img src="https://user-images.githubusercontent.com/45692227/124444973-cd52a100-dd87-11eb-8c0b-e9b2af563d84.png" >
 
 
